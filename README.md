@@ -122,6 +122,6 @@ Tất cả kiểm thử dùng `unittest.mock` — **không cần API key thật*
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `pytest tests/ -v` — tất cả kiểm thử pass
-- [ ] `solution/exercises.md` — tất cả câu trả lời đã điền
-- [ ] `solution/solution.py` — triển khai cuối cùng của bạn
+- [x] `pytest tests/ -v` — tất cả kiểm thử pass
+- [x] `solution/exercises.md` — tất cả câu trả lời đã điền
+- [x] `solution/solution.py` — triển khai cuối cùng của bạn
